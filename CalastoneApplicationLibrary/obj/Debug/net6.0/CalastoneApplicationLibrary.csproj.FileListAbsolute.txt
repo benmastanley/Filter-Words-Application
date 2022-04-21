@@ -1,0 +1,12 @@
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\bin\Debug\net6.0\CalastoneApplicationLibrary.deps.json
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\bin\Debug\net6.0\CalastoneApplicationLibrary.dll
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\bin\Debug\net6.0\CalastoneApplicationLibrary.pdb
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\CalastoneApplicationLibrary.csproj.AssemblyReference.cache
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\CalastoneApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\CalastoneApplicationLibrary.AssemblyInfoInputs.cache
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\CalastoneApplicationLibrary.AssemblyInfo.cs
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\CalastoneApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\CalastoneApplicationLibrary.dll
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\refint\CalastoneApplicationLibrary.dll
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\CalastoneApplicationLibrary.pdb
+C:\Development\CalastoneApplicationBenStanley\CalastoneApplicationLibrary\obj\Debug\net6.0\ref\CalastoneApplicationLibrary.dll
