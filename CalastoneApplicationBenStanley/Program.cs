@@ -54,11 +54,12 @@ namespace CalastoneApplicationBenStanley
                         {
                             words.AddRange(line.Split(separator, StringSplitOptions.TrimEntries).ToList());
                         }
-                        
-                        words = _filterService.FilterMiddleVowels(words);
-                        words = _filterService.FilterLengthLessThanThree(words);
-                        words = _filterService.FilterWordsContainingLetterT(words);
                     }
+                        
+                    words = _filterService.FilterMiddleVowels(words);
+                    words = _filterService.FilterLengthLessThanThree(words);
+                    words = _filterService.FilterWordsContainingLetterT(words);
+
                     if (words.IsNotNullOrEmpty())
                     {
                         Console.WriteLine("New list of words after filter:");
